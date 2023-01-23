@@ -1,0 +1,118 @@
+Rocketseat
+
+==========
+AULA 1
+==========
+
+fastify - rodar http
+prisma - integração com banco de dados
+
+vitejs.dev - template app web
+
+
+expo.dev / rodar mobile react native
+
+notion (app de salvar tasks)
+
+-> https://tailwindcss.com/docs/installation
+
+==========
+AULA 2
+==========
+
+Server:
+
+-> npm run dev
+http://localhost:3333/hello
+
+
+-> npx prisma migrate dev
+add novas alterações no banco de dados
+
+-> npx prisma studio
+abrir interface web das tabelas
+
+-> npm i -D prisma-erd-generator @mermaid-js/mermaid-cli
+https://www.npmjs.com/package/prisma-erd-generator
+
+ferramenta para visualizar o banco de dados em diagrama
+
+-> npx prisma generate
+
+//seed (prisma seed)
+populador de banco de dados, criar dados ficticios 
+
+->npx prisma db seed
+salvar dados
+
+-> npm i zod
+biblioteca de validação de dados
+
+-> npm i dayjs
+biblioteca para trabalhar com datas
+
+-> npm i phosphor-react
+biclioteca de icons
+
+-> console ninja
+
+-> native wind
+https://www.nativewind.dev/
+
+npm i nativewind
+
+-> npx expo install react-native-svg
+trabalhar com arquivos SVG
+
+-> npm i react-native-svg-transformer --save-dev
+react native svg transformer
+utitlizar svg como componente no react-native
+https://github.com/kristerkari/react-native-svg-transformer
+
+-> icons react native
+https://oblador.github.io/react-native-vector-icons/
+
+
+
+==========
+AULA 3
+==========
+
+-> https://www.radix-ui.com/
+biblioteca de acessibilidade
+biblioteca de componentes 
+
+instalar componentes conforme necessidade: npm install @radix-ui/react-dialog
+
+-> npm i clsx
+biblioteca
+
+//app
+https://reactnavigation.org/
+libs de navegação do mobile - react native
+
+==========
+AULA 4
+==========
+
+-> npm run dev
+rodar aplicação WEB
+
+-> npx expo start
+rodar app mobile
+
+-> npm install axios
+
+
+==========
+AULA 5
+==========
+
+React Native Reanimate
+
+https://docs.expo.dev/versions/v47.0.0/sdk/reanimated/
+https://docs.swmansion.com/react-native-reanimated/
+
+git remote set-url origin git@github.com:faustocps/
+
+git remote add origin https://github.com/faustocps/habits.git
